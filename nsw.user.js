@@ -5,7 +5,7 @@
 // @include  https://ouo.press/*
 // @include  https://nxbrew.com/*
 // @include  https://cutdl.xyz/*
-// @version  1.1
+// @version  1.2
 // @author   Hipelago
 // @run-at   document-end
 // @grant    none
