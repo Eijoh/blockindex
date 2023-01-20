@@ -21,7 +21,7 @@
 })();
 setInterval(function () {
     document.getElementsByClassName("btn btn-main")[0].click();
-}, 1000);
+}, 2000);
 var links,thisLink;
 links = document.evaluate("//a[@href]",
     document,
