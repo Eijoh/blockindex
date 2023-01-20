@@ -16,7 +16,7 @@
 (function() {
   var si = setInterval;
   setInterval = function(fn, duration) {
-    if (duration >= 1000) duration = duration === 1000 ? 500 : duration;
+    if (duration >= 1000) duration = duration === 1000 ? 600 : duration;
     return si.apply(this, arguments);
   };
 })();
