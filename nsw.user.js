@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name     NoAds (NSW) ⭐
 // @updateURL https://noads.ga/nsw.user.js
+// @downloadURL https://noads.ga/nsw.user.js
 // @include  https://ouo.io/*
 // @include  https://ouo.press/*
 // @include  https://nxbrew.com/*
