@@ -8,6 +8,7 @@
 // @include  https://cutdl.xyz/*
 // @version  1.3
 // @author   Hipelago
+// @description  Autobypass ouo.io / 1link.club / cutdl
 // @run-at   document-end
 // @grant    none
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
